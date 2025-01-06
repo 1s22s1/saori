@@ -1,7 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int main() {
+int main()
+{
   // 一年の秒数
   int seconds = 365 * 24 * 60 * 60;
 

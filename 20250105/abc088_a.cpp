@@ -2,15 +2,19 @@
 
 using namespace std;
 
-int main() {
+int main()
+{
     int N, A;
 
     cin >> N;
     cin >> A;
 
-    if (N % 500 <= A) {
+    if (N % 500 <= A)
+    {
         cout << "Yes" << endl;
-    } else {
+    }
+    else
+    {
         cout << "No" << endl;
     }
 }
